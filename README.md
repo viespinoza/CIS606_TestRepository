@@ -4,5 +4,7 @@ Hi! I'm Vi. I'm a Technical Program Manager and MCIS grad student at CSU. This r
 Contents
 
 Practice: Code snippets and practice problems.
+
 Projects: Larger collaborative or individual projects.
+
 Assignments: Homework and coding tasks.
